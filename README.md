@@ -13,7 +13,7 @@ Takım Unity 121
 
 ## Ürün İsmi
 
---Scrap App--
+--X--
 
 ## Product Backlog URL
 
@@ -21,35 +21,25 @@ Takım Unity 121
 
 ## Ürün Açıklaması
 
+X, 3023 yılından gelen bir kahramanın 1023 yılında başına gelenleri konu edinen hikayeli 2D bir oyundur. Kahramanımız 3 yıl öncesine gitmek isterken zaman makinesinde yaşanan bir problem kahramanımızın 2000 yıl öncesine gitmesine sebep oldu. Zaman makinesiyle en fazla kendi yaşı kadar geriye gidebilirdi. Bu kurallara aykırıydı ve istemeden de olsa suç işlemişti. Kahramanımız oyun ilerledikçe peşine düşen robotlardan kurtulmaya çalışacaktır.
 
-
-Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Ayrıca hurda ilanı verilebilen bu uygulamada kullanıcılar biriktirdikleri, bakır, demir, çelik, alüminyum, kağıt, cam vb hurdaların satışını ilanlar ile yapabilir. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, onların geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Scrap App kağıt, metal, plastik cam vb ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini savunur ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
-
-
-- **Uygulama birincil fonksiyonu**: Apartman/site sakinlerinin geri dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı firma biriken atıklara ilişkin kutu doluluk oranını uygulama üzerinden görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, apartman yönetiminin teklif onayından sonra, atık satın alma işlemi gerçekleşir.
-
-- **Uygulama ikincil fonksiyonu**: Kullanıcı elindeki geri dönüşebilir kıymetli maddeler için teklif almak üzere Scrap App'e girer ve ilan verir, toplayıcı firma, kullanıcının ilanına ilişkin ağırlık ve madde türü gibi bilgileri kullanıcının ilanında görür ve satın alma teklifini kullanıcıya bildirir, kullanıcının teklif onayından sonra, hurda satın alma işlemi gerçekleşir.
+- **Oyun fonksiyonu**: Her bölümde verilen görevleri enerji düzeyimiz yettiği sürece tamamlamak. Eğer enerjimiz yetersiz olursa her saat +1 enerji kazanırız. Başarısız olunan her görevde -1 enerji kaybederiz. Başarılı olunan görevlerde enerji kaybedilmez.
 
 ## Ürün Özellikleri
 
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularının kutu doluluk oranının geri dönüşüm atık toplayıcılarına bildirilmesi.
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularındaki geri dönüşüm maddelerinin satın alınmasına ilişkin, toplayıcı firmalar tarafından satın alma teklifini apartman yönetimlerine sunabilmesi ve yönetici tarafından teklifin kabul edilmesi.
-- Apartmandan bağımsız olarak biriktirilmiş bireysel geri dönüşüm maddelerinin satın alımı için toplayıcı firmalardan teklif alma ve toplayıcı çağırma hizmeti.
-- Kullanıcı, apartman yönetimi, atık toplayıcı firma ve uygulama şirketi için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
+- 5 Farklı bölümden oluşur.
+- Her bölümde 2-3 görev bulunmaktadır.
+- Görevler basit tarzda dövüş, savaş, taşıma, toplama, bir şeyi bir yere götürme, bir yerden bir yere gitme vb. şekildedir.
+- Genellikle hikayenin yönlendirmeleriyle hareket edilir.
+- Tüm bölümler tamamlandığında ormanda hayatta kalmaya çalışırız. Belirli aralıklarla bize saldırmaya robotlar gelir. NPC arkadaşlar edinebiliriz.
 
 ## Hedef Kitle
 
-- Çevreci gönüllüler
-- Apartman yöneticileri
-- Apartman sakinleri
-- Bina yönetim şirketleri 
-- Geri dönüşüm merkezleri
-- Geri dönüşüm atık toplayıcıları
+- 18-25 Yaş aralığındaki hikayeli oyun sever kişiler.
 
 ## Juriye Not
 
-İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
-
+Enerjimizin tükendiği yerlerde enerji satın almak için uygulama içi satın alma yöntemi eklemek istedik ancak yapamadık. Oyunun ticarileşmesi için mantıklı bir adım olacaktır.
 
 ---
 
